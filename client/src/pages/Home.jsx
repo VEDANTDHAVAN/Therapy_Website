@@ -5,7 +5,7 @@ import Footer from "../components/Footer";
 import Hero from "../components/Hero";
 import Navbar from "../components/Navbar";
 import HomeCircles from "../components/HomeCircles";
-
+//import Dashboard2 from "./Dashboard2";
 const Home = () => {
   return (
     <>
@@ -15,6 +15,7 @@ const Home = () => {
       <HomeCircles />
       <Contact />
       <Footer />
+   
     </>
   );
 };
